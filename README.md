@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/AILabs_animated_green_signal.gif" width="100%" alt="AI Labs animated research banner">
+</p>
+
 <div align="center">
   <img src="image_cf3e6cd9.png" alt="AI Research" width="100%">
 </div>
