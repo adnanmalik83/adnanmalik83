@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AILabs_animated_green_signal.gif" width="100%" alt="AI Labs animated research banner">
+  <img src="AILabs_animated_green_signal.gif" width="100%" alt="AI Labs animated research banner">
 </p>
 
 <div align="center">
