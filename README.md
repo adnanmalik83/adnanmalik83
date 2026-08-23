@@ -16,6 +16,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-adnanmalik83-181717?style=for-the-badge\&logo=github)](https://github.com/adnanmalik83)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adnan%20Malik-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/adnan-malik-30240928/)
+[![AI Labs](https://img.shields.io/badge/AI%20Labs-AI%20Software%20%26%20Research-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adnanmalik83.github.io/)
 
 **Independent AI Research & Engineering**
 
