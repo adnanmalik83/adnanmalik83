@@ -1,6 +1,6 @@
-<!-- AI RESEARCH HERO BANNER — ADD LATER
-![Adnan Malik — AI Researcher](assets/ai-research-banner.png)
--->
+<div align="center">
+  <img src="image_cf3e6cd9.png" alt="AI Research" width="100%">
+</div>
 
 <div align="center">
 
