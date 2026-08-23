@@ -558,8 +558,6 @@ This combination of **domain expertise + AI engineering** is central to my curre
 
 # 📚 Education
 
-**MSc Management** — University of Bath
-
 **EMBA Coursework** — NUST
 
 **Bachelor of Computer Software Engineering**
