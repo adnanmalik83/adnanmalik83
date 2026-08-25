@@ -365,15 +365,32 @@ monitoring, threat awareness, and protection capabilities through an intuitive
 interface.
 </p>
 
-<p>
-<img src="./Screenshot_20260816-031024_CyberShield (1).jpg" alt="CyberShield Application" width="850">
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="./Screenshot_20260816-031024_CyberShield (1).jpg"
+     alt="CyberShield Main Screen"
+     width="260">
+</td>
+
+<td align="center">
+<img src="./Screenshot_20260816-031024_CyberShield (2).jpg"
+     alt="CyberShield Security Dashboard"
+     width="260">
+</td>
+
+<td align="center">
+<img src="./Screenshot_20260816-031024_CyberShield (3).jpg"
+     alt="CyberShield Security Features"
+     width="260">
+</td>
+</tr>
+</table>
 
 <p>
 <b>Application:</b> Cybersecurity & Threat Protection<br>
 <b>Status:</b> Developed
 </p>
-
 ---
 
 ## Ransomware Canary & Log Analyzer
