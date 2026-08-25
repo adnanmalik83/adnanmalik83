@@ -374,13 +374,13 @@ interface.
 </td>
 
 <td align="center">
-<img src="./Screenshot_20260816-031024_CyberShield (2).jpg"
+<img src="./Screenshot_20260816-031012_CyberShield (2).jpg"
      alt="CyberShield Security Dashboard"
      width="260">
 </td>
 
 <td align="center">
-<img src="./Screenshot_20260816-031024_CyberShield (3).jpg"
+<img src="./Screenshot_20260816-031035_CyberShield (3).jpg"
      alt="CyberShield Security Features"
      width="260">
 </td>
