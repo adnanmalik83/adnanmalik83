@@ -205,6 +205,44 @@ toward:
 
 ---
 
+<h3>🚨 Intruder Alert</h3>
+
+<p>
+A security monitoring application designed to detect suspicious or unauthorized
+activity and provide timely security alerts through a practical and intuitive
+interface.
+</p>
+
+<table>
+<tr>
+<td align="center">
+<img src="./IntruderAlert-1.jpg"
+     alt="Intruder Alert Main Screen"
+     width="260">
+</td>
+
+<td align="center">
+<img src="./IntruderAlert-2.jpg"
+     alt="Intruder Alert Security Dashboard"
+     width="260">
+</td>
+
+<td align="center">
+<img src="./IntruderAlert-3.jpg"
+     alt="Intruder Alert Security Features"
+     width="260">
+</td>
+</tr>
+</table>
+
+<p>
+<b>Application:</b> Intrusion Detection & Security Alerts<br>
+<b>Status:</b> Developed
+</p>
+
+
+
+
 # 🚀 Featured AI Research Projects
 
 ## 01 · Telecom Fraud AI Benchmark
