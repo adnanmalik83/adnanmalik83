@@ -366,7 +366,7 @@ interface.
 </p>
 
 <p>
-<img src="./assets/cybershield.png" alt="CyberShield Application" width="850">
+<img src="./Screenshot_20260816-031024_CyberShield (1).jpg" alt="CyberShield Application" width="850">
 </p>
 
 <p>
