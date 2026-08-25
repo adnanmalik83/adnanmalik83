@@ -240,7 +240,44 @@ interface.
 <b>Status:</b> Developed
 </p>
 
+## 🛡️ CyberAware AI
 
+### AI-Powered Cybersecurity & Fraud Awareness Platform
+
+An interactive cybersecurity and fraud-awareness platform developed by **AI Labs**, using scenario-based challenges, scoring, gamification, progress tracking, achievement badges, and certification.
+
+**Key capabilities:**
+- 🎣 Phishing awareness
+- 📱 SMS fraud detection
+- 🧠 Social engineering scenarios
+- 🔐 Ransomware response
+- ☎️ Telecom fraud awareness
+- 🤖 AI threat challenges
+- 📊 Cyber awareness scoring
+- 🏆 Achievement badges
+- 🎓 Certification
+
+**🌐 Live Demo:**  
+https://adnanmalik83.github.io/CyberAware-AI/
+
+**💻 Repository:**  
+https://github.com/adnanmalik83/CyberAware-AI/
+
+### 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adnanmalik83/CyberAware-AI/main/cyberA_1.png" width="48%" alt="CyberAware AI Screenshot 1">
+  <img src="https://raw.githubusercontent.com/adnanmalik83/CyberAware-AI/main/cyberA_2.png" width="48%" alt="CyberAware AI Screenshot 2">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adnanmalik83/CyberAware-AI/main/cyberA_3.png" width="48%" alt="CyberAware AI Screenshot 3">
+  <img src="https://raw.githubusercontent.com/adnanmalik83/CyberAware-AI/main/cyberA_4.png" width="48%" alt="CyberAware AI Screenshot 4">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adnanmalik83/CyberAware-AI/main/cyberA_5.png" width="60%" alt="CyberAware AI Screenshot 5">
+</p>
 
 
 # 🚀 Featured AI Research Projects
