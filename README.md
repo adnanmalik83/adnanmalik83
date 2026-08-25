@@ -357,6 +357,23 @@ An AI-oriented cybersecurity project focused on mobile security and threat aware
 
 [View Repository →](https://github.com/adnanmalik83/CyberShield)
 
+<h3>🛡️ CyberShield</h3>
+
+<p>
+A cybersecurity application designed to provide users with practical security
+monitoring, threat awareness, and protection capabilities through an intuitive
+interface.
+</p>
+
+<p>
+<img src="./assets/cybershield.png" alt="CyberShield Application" width="850">
+</p>
+
+<p>
+<b>Application:</b> Cybersecurity & Threat Protection<br>
+<b>Status:</b> Developed
+</p>
+
 ---
 
 ## Ransomware Canary & Log Analyzer
