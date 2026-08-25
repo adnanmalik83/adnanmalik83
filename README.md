@@ -222,13 +222,13 @@ interface.
 </td>
 
 <td align="center">
-<img src="./IntruderAlert-2.jpg"
+<img src="./IntruderAlert-2.PNG"
      alt="Intruder Alert Security Dashboard"
      width="260">
 </td>
 
 <td align="center">
-<img src="./IntruderAlert-3.jpg"
+<img src="./IntruderAlert-3.PNG"
      alt="Intruder Alert Security Features"
      width="260">
 </td>
