@@ -505,7 +505,9 @@ AUTHORIZED       UNKNOWN
           └────────┬────────┘
                    ▼
           Security Dashboard
+
 ---
+
 # 🛡️ Cybersecurity AI
 
 ## CyberShield
