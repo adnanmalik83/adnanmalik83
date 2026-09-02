@@ -425,6 +425,86 @@ Insights
 [View Repository →](https://github.com/adnanmalik83/Autonomous-AI-Data-Analyst)
 
 ---
+## 07 · AI Face Recognition Alert Pro
+
+### `AI-Face-Recognition-Alert-Pro`
+
+An AI-powered computer-vision security system for **real-time face recognition, unknown-person detection, automated security alerts, evidence capture, event logging, and security analytics**.
+
+The project combines **YuNet face detection** with **SFace facial recognition** to create a local-first security monitoring workflow.
+
+<p align="center">
+  <img src="FR_1.png"
+       alt="Security Dashboard"
+       width="48%">
+  <img src="FR_2.png"
+       alt="Security Alert"
+       width="48%">
+</p>
+
+<p align="center">
+  <img src="FR_3.png"
+       alt="Security Analytics"
+       width="70%">
+</p>
+
+### Research / engineering question
+
+> **How can AI-based face recognition be integrated with real-time security monitoring, automated alerting, evidence capture, and auditable event analysis?**
+
+Rather than treating face recognition as an isolated computer-vision task, the project connects the AI recognition pipeline with a complete security-monitoring workflow.
+
+### Core capabilities
+
+* Real-time face detection using YuNet
+* SFace-based facial feature extraction and recognition
+* Authorized-person registration
+* Unknown-person detection
+* Multi-frame unknown-person confirmation
+* Automated security alerts
+* Evidence screenshot capture
+* Recognition-score tracking
+* Security event logging
+* Interactive Streamlit security dashboard
+* Local-first biometric data processing
+
+### Architecture
+
+```text
+Camera
+   │
+   ▼
+YuNet Face Detection
+   │
+   ▼
+Facial Landmarks
+   │
+   ▼
+SFace Alignment
+   │
+   ▼
+SFace Feature Embedding
+   │
+   ▼
+Cosine Similarity
+   │
+   ├───────────────┐
+   ▼               ▼
+AUTHORIZED       UNKNOWN
+                   │
+                   ▼
+            Frame Confirmation
+                   │
+                   ▼
+             Security Alert
+                   │
+          ┌────────┴────────┐
+          ▼                 ▼
+      Evidence          Event Log
+          │                 │
+          └────────┬────────┘
+                   ▼
+          Security Dashboard
 
 # 🛡️ Cybersecurity AI
 
