@@ -445,10 +445,7 @@ The project combines **YuNet face detection** with **SFace facial recognition** 
 <p align="center">
   <img src="FR_3.png"
        alt="Security Analytics"
-       width="48%">
-  <img src="FR_4.png"
-       alt="Security Analytics"
-       width="48%">
+       width="70%">
 </p>
 
 ### Research / engineering question
