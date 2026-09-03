@@ -437,7 +437,7 @@ The project combines **YuNet face detection** with **SFace facial recognition** 
   <img src="FR_1.png"
        alt="Security Dashboard"
        width="48%">
-  <img src="FR_2.png"
+  <img src="FR_5.png"
        alt="Security Alert"
        width="48%">
 </p>
