@@ -443,7 +443,7 @@ The project combines **YuNet face detection** with **SFace facial recognition** 
 </p>
 
 <p align="center">
-  <img src="FR_3.png"
+  <img src="FR_6.png"
        alt="Security Analytics"
        width="70%">
 </p>
