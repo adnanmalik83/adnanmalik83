@@ -551,9 +551,10 @@ interface.
 </table>
 
 <p>
-<b>Application:</b> Cybersecurity & Threat Protection<br>
-<b>Status:</b> Developed
+  <b>Application:</b> <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.cybershield">Cybersecurity & Threat Protection</a><br>
+  <b>Status:</b> Developed
 </p>
+
 ---
 
 ## Ransomware Canary & Log Analyzer
