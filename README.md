@@ -242,9 +242,14 @@ interface.
 </table>
 
 <p>
-<b>Application:</b> Intrusion Detection & Security Alerts<br>
-<b>Status:</b> Developed<br>
-<b>Download:</b> <a href="[https://google.com](https://play.google.com/store/apps/details?id=com.adnanmalik.intruderalert)" target="_blank">Get it on Google Play</a>
+  <b>Application:</b> Intrusion Detection &amp; Security Alerts<br>
+  <b>Status:</b> Developed &amp; Published<br>
+  <b>Download:</b>
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.intruderalert"
+     target="_blank"
+     rel="noopener noreferrer">
+    Get it on Google Play
+  </a>
 </p>
 
 ## 🛡️ CyberAware AI
