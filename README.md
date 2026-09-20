@@ -126,7 +126,6 @@ Interested researchers and developers can fork the project and experiment with:
 > 🍴 **Want to experiment with another GNN architecture or fraud scenario? Fork the repository and build on it.**
 
 ---
----
 
 # 🌍 FraudPulse AI — Global Fraud Intelligence Network
 
