@@ -126,6 +126,77 @@ Interested researchers and developers can fork the project and experiment with:
 > 🍴 **Want to experiment with another GNN architecture or fraud scenario? Fork the repository and build on it.**
 
 ---
+---
+
+# 🌍 FraudPulse AI — Global Fraud Intelligence Network
+
+### Open-Source Global Fraud & Cyber Threat Intelligence Platform
+
+**FraudPulse AI** is an experimental open-source fraud intelligence platform
+designed to combine public threat intelligence, campaign discovery, graph
+correlation, community signals and agentic investigation into a unified
+fraud-monitoring environment.
+
+The project explores an important question:
+
+> **Can independent fraud and cyber-threat signals be correlated early enough
+> to identify emerging campaigns before they become widespread?**
+
+<p align="center">
+  <img src="fraud_sim_1.png"
+       width="95%"
+       alt="FraudPulse AI Global Fraud Intelligence Network">
+</p>
+
+### 📡 Live Threat Intelligence
+
+FraudPulse integrates external threat-intelligence feeds while maintaining
+clear provenance between observed, community-reported and simulated data.
+
+Current capabilities include:
+
+- 🌐 OpenPhish live phishing intelligence
+- 🔎 Campaign discovery
+- 🚨 Fraud early-warning alerts
+- 🧬 Fraud DNA analysis
+- 🕸️ Cross-source correlation
+- 🤖 Agentic fraud investigation
+- 📊 Persistent intelligence storage
+- 🌍 Global Fraud Radar
+- 🔌 FastAPI intelligence API
+
+<p align="center">
+  <img src="fraud_sim_2.png"
+       width="95%"
+       alt="FraudPulse AI Agentic Investigation and Intelligence Graph">
+</p>
+
+## 🧠 Agentic Investigation & Intelligence Graph
+
+FraudPulse includes an **Agentic Investigation Desk** where defensive
+investigation components independently analyse suspicious content, URLs,
+threat-intelligence signals and social-engineering indicators.
+
+The resulting evidence can be connected through a persistent intelligence
+graph:
+
+```text
+Threat Feed
+     │
+     ▼
+Suspicious Host
+     │
+     ├──────────► Fraud Theme
+     │
+     ▼
+Campaign
+     │
+     ├──────────► Community Signal
+     │
+     ▼
+Early-Warning Alert
+
+
 # ADNAN MALIK
 
 ### AI RESEARCHER & ENGINEER
