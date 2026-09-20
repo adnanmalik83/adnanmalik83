@@ -140,7 +140,15 @@ The project explores an important question:
 
 > **Can independent fraud and cyber-threat signals be correlated early enough
 > to identify emerging campaigns before they become widespread?**
-
+<p align="center">
+  <a href="https://github.com/adnanmalik83/FraudPulse-AI">
+    🚀 <b>View FraudPulse AI on GitHub</b>
+  </a>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  <a href="https://github.com/adnanmalik83/FraudPulse-AI/fork">
+    🍴 <b>Fork & Experiment</b>
+  </a>
+</p>
 <p align="center">
   <img src="fraud_sim_1.png"
        width="95%"
