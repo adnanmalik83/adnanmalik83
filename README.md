@@ -25,7 +25,7 @@
          alt="Intruder Alert Android App">
   </a>
   &nbsp;
-  <img src="AI Moneyguard.PNG"
+  <img src="AIMoneyguard.jpg"
        width="30%"
        alt="AI MoneyGuard Android App">
 </p>
