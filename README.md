@@ -196,7 +196,7 @@ Campaign
      ▼
 Early-Warning Alert
 
----
+```
 # ADNAN MALIK
 
 ### AI RESEARCHER & ENGINEER
