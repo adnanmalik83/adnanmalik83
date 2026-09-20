@@ -2,6 +2,54 @@
   <img src="AILabs_animated_green_signal.gif" width="100%" alt="AI Labs animated research banner">
 </p>
 
+<h2 align="center">📱 Published & Developed Applications</h2>
+
+<p align="center">
+  <b>Cyber Shield</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Intruder Alert</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI MoneyGuard</b>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.cybershield">
+    <img src="Cybershield.jpg"
+         width="30%"
+         alt="Cyber Shield Android App">
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.intruderalert">
+    <img src="IntruderAlert.jpg"
+         width="30%"
+         alt="Intruder Alert Android App">
+  </a>
+  &nbsp;
+  <img src="AI MoneyGuard.PNG"
+       width="30%"
+       alt="AI MoneyGuard Android App">
+</p>
+
+<p align="center">
+  <b>Cyber Shield</b> — Mobile Cybersecurity
+  &nbsp; • &nbsp;
+  <b>Intruder Alert</b> — Device Security
+  &nbsp; • &nbsp;
+  <b>AI MoneyGuard</b> — Financial Intelligence
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.cybershield">
+    Cyber Shield ↗
+  </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.intruderalert">
+    Intruder Alert ↗
+  </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <b>AI MoneyGuard — Coming Soon</b>
+</p>
+
 <div align="center">
   <img src="image_cf3e6cd9.png" alt="AI Research" width="100%">
 </div>
