@@ -47,7 +47,9 @@
     Intruder Alert ↗
   </a>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  <b>AI MoneyGuard — Coming Soon</b>
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.aimoneyguard">
+  AI MoneyGuard ↗
+</a>
 </p>
 
 <div align="center">
