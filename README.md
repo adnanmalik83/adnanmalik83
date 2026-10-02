@@ -25,9 +25,11 @@
          alt="Intruder Alert Android App">
   </a>
   &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.adnanmalik.aimoneyguard">
   <img src="AIMoneyguard.jpg"
        width="30%"
        alt="AI MoneyGuard Android App">
+</a>
 </p>
 
 <p align="center">
